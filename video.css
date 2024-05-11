@@ -1,0 +1,10 @@
+body{
+    background-image: url(Untitled142_20240318121519.png);
+    background-size: 390px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: darkseagreen;
+}
+video{
+    border: 1px solid black;
+}

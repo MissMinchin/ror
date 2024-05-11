@@ -1,0 +1,17 @@
+body{
+    background-image: url(cover.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+img{
+    margin-top: 50px;
+}
+audio{
+    margin-top: 10px;
+    width: 500px;
+    height: 90px;
+}
+span:hover{
+    color: #800080;
+}

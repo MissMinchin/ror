@@ -1,0 +1,9 @@
+body{
+    background-image: url(doggies.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h2{ 
+    font-weight: bolder;
+}
